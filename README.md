@@ -1,0 +1,1 @@
+A modern and responsive portfolio template built using HTML and CSS, designed to showcase your skills, projects, and experiences. This template is fully customizable, making it ideal for developers, designers, and freelancers.
